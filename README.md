@@ -3,6 +3,11 @@
 ## Description
 The Employee Management System is a command-line application that allows users to manage a company's employee database. It provides functionalities to view, add, and update employees, roles, and departments, leveraging Node.js, PostgreSQL, and the Inquirer package.
 
+# Video
+In this video, I am explaining how my app work.
+
+ https://drive.google.com/file/d/1o4edQ9H3KcoXvy1AfNKnZnyeV_h6s5NE/view?usp=sharing
+
 ## Features
 - View all employees, roles, and departments.
 - Add new employees, roles, and departments.
